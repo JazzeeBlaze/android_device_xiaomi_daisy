@@ -5,40 +5,46 @@ LOCAL_MODULE := RemovePkgs
 LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_TAGS := optional
 LOCAL_OVERRIDES_PACKAGES := \
-          arcore \
           AmbientSensePrebuilt \
-          AppDirectedSMSService \
+          AmbientStreaming \
+          arcore \
+          CarrierLocation \
+          CarrierMetrics \
           ConnMO \
-          CalendarGooglePrebuilt \
-          Drive \
+          ConnMetrics \
           DCMO \
           DevicePolicyPrebuilt \
+          DiagnosticsToolPrebuilt \
           DMService \
+          Drive \
+          Gallery2 \
           GCS \
-          GoogleCamera \
-          MaestroPrebuilt \
           Maps \
-          MicropaperPrebuilt \
+          Music \
           MyVerizonServices \
           OBDM_Permissions \
           obdm_stub \
+          OdadPrebuilt \
+          OemDmTrigger \
+          OPScreenRecord \
+          Ornament \
+          PixelLiveWallpaperPrebuilt \
+          PlayAutoInstallConfig \
           PrebuiltGmail \
-          PixelWallpapers2021 \
-          PixelWallpapers2020 \
           RecorderPrebuilt \
-          SafetyHubPrebuilt \
           SCONE \
           ScribePrebuilt \
+          SafetyHubPrebuilt \
           Showcase \
-          Snap \
           SoundAmplifierPrebuilt \
+          MaestroPrebuilt \
           SprintDM \
-          SprintHM \
+          USCCDM \
           TurboPrebuilt \
           Tycho \
           TipsPrebuilt \
           talkback \
-          USCCDM \
+          Videos \
           VZWAPNLib \
           VzwOmaTrigger \
           WallpapersBReel2020 \
