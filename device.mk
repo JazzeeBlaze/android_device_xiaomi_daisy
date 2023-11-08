@@ -42,6 +42,7 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     android.hardware.boot@1.0-impl \
+    RemovePkgs \
     android.hardware.boot@1.0-service \
     bootctrl.msm8953
 endif
