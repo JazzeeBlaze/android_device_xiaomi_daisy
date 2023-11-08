@@ -51,24 +51,24 @@ LOCAL_OVERRIDES_PACKAGES := \
           YouTube \
           YouTubeMusicPrebuilt \
           crDroidMusic \
-		  CalendarGooglePrebuilt \
-		  LocationHistoryPrebuilt \
-		  talkback \
-		  WellbeingPrebuilt \
-		  Velvet \
-		  MarkupGoogle \
-		  Tycho \
-		  Etar \
-		  Jelly \
-		  AndroidAutoStubPrebuilt \
-		  MatLog \
-	      stk \
-		  Chrome \
+	  CalendarGooglePrebuilt \
+	  LocationHistoryPrebuilt \
+	  talkback \
+	  WellbeingPrebuilt \
+	  Velvet \
+	  MarkupGoogle \
+	  Tycho \
+	  Etar \
+	  Jelly \
+	  AndroidAutoStubPrebuilt \
+	  MatLog \
+	  stk \
+	  Chrome \
           Flipendo \
-		  Gallery2 \
-		  FMRadio \
-		  FM2 \
-		  GoogleFeedback
+	  Gallery2 \
+	  FMRadio \
+	  FM2 \
+	  GoogleFeedback
 
 LOCAL_UNINSTALLABLE_MODULE := true
 LOCAL_CERTIFICATE := platform
